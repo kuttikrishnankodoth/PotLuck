@@ -1,0 +1,6 @@
+F:\GitRepository\PotLuck\WebApi.Kod.PotLuck\WebApi.Kod.PotLuck.Dto\bin\Debug\WebApi.Kod.PotLuck.Dto.dll.config
+F:\GitRepository\PotLuck\WebApi.Kod.PotLuck\WebApi.Kod.PotLuck.Dto\bin\Debug\WebApi.Kod.PotLuck.Dto.dll
+F:\GitRepository\PotLuck\WebApi.Kod.PotLuck\WebApi.Kod.PotLuck.Dto\bin\Debug\WebApi.Kod.PotLuck.Dto.pdb
+F:\GitRepository\PotLuck\WebApi.Kod.PotLuck\WebApi.Kod.PotLuck.Dto\obj\Debug\WebApi.Kod.PotLuck.Dto.csprojResolveAssemblyReference.cache
+F:\GitRepository\PotLuck\WebApi.Kod.PotLuck\WebApi.Kod.PotLuck.Dto\obj\Debug\WebApi.Kod.PotLuck.Dto.dll
+F:\GitRepository\PotLuck\WebApi.Kod.PotLuck\WebApi.Kod.PotLuck.Dto\obj\Debug\WebApi.Kod.PotLuck.Dto.pdb

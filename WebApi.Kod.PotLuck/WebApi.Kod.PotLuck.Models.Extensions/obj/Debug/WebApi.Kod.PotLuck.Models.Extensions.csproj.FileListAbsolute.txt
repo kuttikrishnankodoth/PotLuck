@@ -1,0 +1,11 @@
+F:\GitRepository\PotLuck\WebApi.Kod.PotLuck\WebApi.Kod.PotLuck.Models.Extensions\bin\Debug\WebApi.Kod.PotLuck.Models.Extensions.dll
+F:\GitRepository\PotLuck\WebApi.Kod.PotLuck\WebApi.Kod.PotLuck.Models.Extensions\bin\Debug\WebApi.Kod.PotLuck.Models.Extensions.pdb
+F:\GitRepository\PotLuck\WebApi.Kod.PotLuck\WebApi.Kod.PotLuck.Models.Extensions\bin\Debug\AutoMapper.dll
+F:\GitRepository\PotLuck\WebApi.Kod.PotLuck\WebApi.Kod.PotLuck.Models.Extensions\bin\Debug\WebApi.Kod.PotLuck.Dto.dll
+F:\GitRepository\PotLuck\WebApi.Kod.PotLuck\WebApi.Kod.PotLuck.Models.Extensions\bin\Debug\WebApi.Kod.PotLuck.Models.dll
+F:\GitRepository\PotLuck\WebApi.Kod.PotLuck\WebApi.Kod.PotLuck.Models.Extensions\bin\Debug\WebApi.Kod.PotLuck.Dto.pdb
+F:\GitRepository\PotLuck\WebApi.Kod.PotLuck\WebApi.Kod.PotLuck.Models.Extensions\bin\Debug\WebApi.Kod.PotLuck.Models.pdb
+F:\GitRepository\PotLuck\WebApi.Kod.PotLuck\WebApi.Kod.PotLuck.Models.Extensions\bin\Debug\AutoMapper.xml
+F:\GitRepository\PotLuck\WebApi.Kod.PotLuck\WebApi.Kod.PotLuck.Models.Extensions\obj\Debug\WebApi.Kod.PotLuck.Models.Extensions.csprojResolveAssemblyReference.cache
+F:\GitRepository\PotLuck\WebApi.Kod.PotLuck\WebApi.Kod.PotLuck.Models.Extensions\obj\Debug\WebApi.Kod.PotLuck.Models.Extensions.dll
+F:\GitRepository\PotLuck\WebApi.Kod.PotLuck\WebApi.Kod.PotLuck.Models.Extensions\obj\Debug\WebApi.Kod.PotLuck.Models.Extensions.pdb

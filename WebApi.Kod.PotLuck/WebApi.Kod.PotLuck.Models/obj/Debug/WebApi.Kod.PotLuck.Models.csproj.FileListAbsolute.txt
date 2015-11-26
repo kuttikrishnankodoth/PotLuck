@@ -1,0 +1,10 @@
+F:\GitRepository\PotLuck\WebApi.Kod.PotLuck\WebApi.Kod.PotLuck.Models\bin\Debug\WebApi.Kod.PotLuck.Models.dll.config
+F:\GitRepository\PotLuck\WebApi.Kod.PotLuck\WebApi.Kod.PotLuck.Models\bin\Debug\WebApi.Kod.PotLuck.Models.dll
+F:\GitRepository\PotLuck\WebApi.Kod.PotLuck\WebApi.Kod.PotLuck.Models\bin\Debug\WebApi.Kod.PotLuck.Models.pdb
+F:\GitRepository\PotLuck\WebApi.Kod.PotLuck\WebApi.Kod.PotLuck.Models\bin\Debug\EntityFramework.dll
+F:\GitRepository\PotLuck\WebApi.Kod.PotLuck\WebApi.Kod.PotLuck.Models\bin\Debug\EntityFramework.SqlServer.dll
+F:\GitRepository\PotLuck\WebApi.Kod.PotLuck\WebApi.Kod.PotLuck.Models\bin\Debug\EntityFramework.xml
+F:\GitRepository\PotLuck\WebApi.Kod.PotLuck\WebApi.Kod.PotLuck.Models\bin\Debug\EntityFramework.SqlServer.xml
+F:\GitRepository\PotLuck\WebApi.Kod.PotLuck\WebApi.Kod.PotLuck.Models\obj\Debug\WebApi.Kod.PotLuck.Models.csprojResolveAssemblyReference.cache
+F:\GitRepository\PotLuck\WebApi.Kod.PotLuck\WebApi.Kod.PotLuck.Models\obj\Debug\WebApi.Kod.PotLuck.Models.dll
+F:\GitRepository\PotLuck\WebApi.Kod.PotLuck\WebApi.Kod.PotLuck.Models\obj\Debug\WebApi.Kod.PotLuck.Models.pdb
